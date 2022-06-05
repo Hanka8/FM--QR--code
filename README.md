@@ -1,2 +1,7 @@
-# FM--QR--code
-This one was missing in my FM newbie challenges, just wanted to catch them all
+# Frontend Mentor - QR code component
+
+![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+
+## The challenge
+
+This one was missing in my junior challenges
